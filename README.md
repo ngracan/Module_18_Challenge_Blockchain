@@ -8,3 +8,4 @@ Blockchain application consisting of several blocks:
 
 Confirmation Blockchain is Valid:
 
+![](Application_validation.png)
