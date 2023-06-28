@@ -4,4 +4,7 @@
 
 Blockchain application consisting of several blocks:
 
-![]()
+![](Pychain_ledger.png)
+
+Confirmation Blockchain is Valid:
+
